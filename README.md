@@ -14,7 +14,7 @@ _TODO: Insert demo video_
 
 ### Proof of Concept:
 
-Visit [index.html](https://github.com) on an iPhone and click anywere on the page to start the video, then try to exit or close the tab. You can
+Visit [index.html](https://kristianvld.github.io/iphone-safari-fulscreen-softlock/) on an iPhone and click anywere on the page to start the video, then try to exit or close the tab. You can
 
 ---
 
