@@ -8,13 +8,13 @@ When listening on video pause, we can automatically start playing the video agai
 
 It is worth noting that this does not work without starting to play the video while you make the video go fullscreen, nor can you cancel the exit fullscreen event.
 
-### Example demo:
-
-_TODO: Insert demo video_
-
 ### Proof of Concept:
 
 Visit [index.html](https://kristianvld.github.io/iphone-safari-fulscreen-softlock/) on an iPhone and click anywere on the page to start the video, then try to exit or close the tab. You can
+
+### Example Recording:
+
+![Demo GIF](example.gif)
 
 ---
 
